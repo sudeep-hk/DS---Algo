@@ -11618,3 +11618,27 @@ Increase the number of iterations (max_iter) or scale the data as shown in:
 2023-01-26 19:27:40,415:INFO:Rendering Visual
 2023-01-26 19:27:42,405:INFO:Visual Rendered Successfully
 2023-01-26 19:27:42,537:INFO:plot_model() successfully completed......................................
+2023-01-26 19:32:26,967:INFO:Initializing plot_model()
+2023-01-26 19:32:26,967:INFO:plot_model(plot=cluster, fold=None, use_train_data=False, verbose=True, display=None, display_format=None, estimator=KMeans(algorithm='lloyd', copy_x=True, init='k-means++', max_iter=300,
+       n_clusters=4, n_init=10, random_state=1972, tol=0.0001, verbose=0), feature_name=None, fit_kwargs=None, groups=None, label=False, plot_kwargs=None, save=False, scale=1, self=<pycaret.clustering.oop.ClusteringExperiment object at 0x000001DE7F24D240>, system=True)
+2023-01-26 19:32:26,967:INFO:Checking exceptions
+2023-01-26 19:32:26,974:INFO:Preloading libraries
+2023-01-26 19:32:26,975:INFO:Copying training dataset
+2023-01-26 19:32:26,975:INFO:Plot type: cluster
+2023-01-26 19:32:26,975:INFO:SubProcess assign_model() called ==================================
+2023-01-26 19:32:26,975:INFO:Initializing assign_model()
+2023-01-26 19:32:26,975:INFO:assign_model(self=<pycaret.clustering.oop.ClusteringExperiment object at 0x000001DE7F24D240>, model=KMeans(algorithm='lloyd', copy_x=True, init='k-means++', max_iter=300,
+       n_clusters=4, n_init=10, random_state=1972, tol=0.0001, verbose=0), transformation=True, score=True, verbose=False)
+2023-01-26 19:32:26,975:INFO:Checking exceptions
+2023-01-26 19:32:26,975:INFO:Determining Trained Model
+2023-01-26 19:32:26,975:INFO:Trained Model : K-Means Clustering
+2023-01-26 19:32:26,975:INFO:Copying data
+2023-01-26 19:32:26,985:INFO:Transformation parameter set to True. Assigned clusters are attached on transformed dataset.
+2023-01-26 19:32:26,989:INFO:(505, 5)
+2023-01-26 19:32:26,989:INFO:assign_model() successfully completed......................................
+2023-01-26 19:32:26,989:INFO:SubProcess assign_model() end ==================================
+2023-01-26 19:32:26,991:INFO:Fitting PCA()
+2023-01-26 19:32:26,996:INFO:Sorting dataframe
+2023-01-26 19:32:26,997:INFO:Rendering Visual
+2023-01-26 19:32:27,071:INFO:Visual Rendered Successfully
+2023-01-26 19:32:27,312:INFO:plot_model() successfully completed......................................
