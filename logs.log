@@ -11988,3 +11988,37 @@ dtype: int64}],
                                                                    verbose=0)))],
          verbose=False)
 2023-01-26 19:50:59,769:INFO:Creating final display dataframe.
+2023-01-26 19:51:00,299:INFO:Setup _display_container:                     Description             Value
+0                    Session id              6040
+1                        Target             Class
+2                   Target type            Binary
+3           Original data shape         (154, 20)
+4        Transformed data shape         (154, 20)
+5   Transformed train set shape         (107, 20)
+6    Transformed test set shape          (47, 20)
+7              Ordinal features                 6
+8              Numeric features                12
+9          Categorical features                 7
+10     Rows with missing values             48.1%
+11                   Preprocess              True
+12              Imputation type            simple
+13           Numeric imputation              mean
+14       Categorical imputation              mode
+15     Maximum one-hot encoding                25
+16              Encoding method              None
+17               Fold Generator   StratifiedKFold
+18                  Fold Number                10
+19                     CPU Jobs                -1
+20                      Use GPU             False
+21               Log Experiment             False
+22              Experiment Name  clf-default-name
+23                          USI              3312
+2023-01-26 19:51:00,368:INFO:Soft dependency imported: xgboost: 1.7.3
+2023-01-26 19:51:00,370:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-01-26 19:51:00,426:INFO:Soft dependency imported: xgboost: 1.7.3
+2023-01-26 19:51:00,428:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Please run: `pip install catboost` to install.
+Alternately, you can install this by running `pip install pycaret[models]`
+2023-01-26 19:51:00,428:INFO:setup() successfully completed in 1.23s...............
