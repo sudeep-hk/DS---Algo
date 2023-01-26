@@ -7186,3 +7186,19 @@ The PCA initialization in TSNE will change to have the standard deviation of PC1
 
 2023-01-26 10:53:53,663:INFO:Visual Rendered Successfully
 2023-01-26 10:53:53,741:INFO:plot_model() successfully completed......................................
+2023-01-26 10:54:51,312:INFO:Initializing predict_model()
+2023-01-26 10:54:51,313:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000024A65E9CFD0>, estimator=XGBRegressor(base_score=None, booster='gbtree', callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             gamma=None, gpu_id=None, grow_policy=None, importance_type=None,
+             interaction_constraints=None, learning_rate=None, max_bin=None,
+             max_cat_threshold=None, max_cat_to_onehot=None,
+             max_delta_step=None, max_depth=None, max_leaves=None,
+             min_child_weight=None, missing=nan, monotone_constraints=None,
+             n_estimators=100, n_jobs=-1, num_parallel_tree=None,
+             predictor=None, random_state=3518, ...), probability_threshold=None, encoded_labels=False, raw_score=False, drift_report=False, round=4, verbose=True, ml_usecase=None, preprocess=True, replace_labels_in_column=<function _SupervisedExperiment.predict_model.<locals>.replace_labels_in_column at 0x0000024A69A85A20>)
+2023-01-26 10:54:51,313:INFO:Checking exceptions
+2023-01-26 10:54:51,313:INFO:Preloading libraries
+2023-01-26 10:54:51,315:INFO:Set up data.
+2023-01-26 10:54:51,324:INFO:Set up index.
