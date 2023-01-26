@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sudee/Desktop/Learning/DS%20%26%20Algo/mlruns/127326014988574907/bb4965806c654928a888363092233de9/artifacts
+end_time: 1674710366070
+entry_point_name: ''
+experiment_id: '127326014988574907'
+lifecycle_stage: active
+run_id: bb4965806c654928a888363092233de9
+run_name: Dummy Regressor
+run_uuid: bb4965806c654928a888363092233de9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674710365982
+status: 3
+tags: []
+user_id: sudee

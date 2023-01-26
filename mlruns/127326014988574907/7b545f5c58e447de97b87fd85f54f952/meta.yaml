@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sudee/Desktop/Learning/DS%20%26%20Algo/mlruns/127326014988574907/7b545f5c58e447de97b87fd85f54f952/artifacts
+end_time: 1674710213982
+entry_point_name: ''
+experiment_id: '127326014988574907'
+lifecycle_stage: active
+run_id: 7b545f5c58e447de97b87fd85f54f952
+run_name: Light Gradient Boosting Machine
+run_uuid: 7b545f5c58e447de97b87fd85f54f952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674710213865
+status: 3
+tags: []
+user_id: sudee

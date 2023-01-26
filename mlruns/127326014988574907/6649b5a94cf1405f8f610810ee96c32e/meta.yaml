@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sudee/Desktop/Learning/DS%20%26%20Algo/mlruns/127326014988574907/6649b5a94cf1405f8f610810ee96c32e/artifacts
+end_time: 1674710217280
+entry_point_name: ''
+experiment_id: '127326014988574907'
+lifecycle_stage: active
+run_id: 6649b5a94cf1405f8f610810ee96c32e
+run_name: Linear Regression
+run_uuid: 6649b5a94cf1405f8f610810ee96c32e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674710217200
+status: 3
+tags: []
+user_id: sudee

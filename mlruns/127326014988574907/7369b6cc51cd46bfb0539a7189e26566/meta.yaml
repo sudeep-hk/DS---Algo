@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sudee/Desktop/Learning/DS%20%26%20Algo/mlruns/127326014988574907/7369b6cc51cd46bfb0539a7189e26566/artifacts
+end_time: 1674710366450
+entry_point_name: ''
+experiment_id: '127326014988574907'
+lifecycle_stage: active
+run_id: 7369b6cc51cd46bfb0539a7189e26566
+run_name: Ridge Regression
+run_uuid: 7369b6cc51cd46bfb0539a7189e26566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674710366350
+status: 3
+tags: []
+user_id: sudee

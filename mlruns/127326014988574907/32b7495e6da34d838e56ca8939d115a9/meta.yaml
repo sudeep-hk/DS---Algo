@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sudee/Desktop/Learning/DS%20%26%20Algo/mlruns/127326014988574907/32b7495e6da34d838e56ca8939d115a9/artifacts
+end_time: 1674710216187
+entry_point_name: ''
+experiment_id: '127326014988574907'
+lifecycle_stage: active
+run_id: 32b7495e6da34d838e56ca8939d115a9
+run_name: Lasso Least Angle Regression
+run_uuid: 32b7495e6da34d838e56ca8939d115a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674710216103
+status: 3
+tags: []
+user_id: sudee

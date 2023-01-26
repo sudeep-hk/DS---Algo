@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sudee/Desktop/Learning/DS%20%26%20Algo/mlruns/127326014988574907/f0f1ff6f66c349dc9a52f95a00b91e85/artifacts
+end_time: 1674710214675
+entry_point_name: ''
+experiment_id: '127326014988574907'
+lifecycle_stage: active
+run_id: f0f1ff6f66c349dc9a52f95a00b91e85
+run_name: Gradient Boosting Regressor
+run_uuid: f0f1ff6f66c349dc9a52f95a00b91e85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674710214544
+status: 3
+tags: []
+user_id: sudee

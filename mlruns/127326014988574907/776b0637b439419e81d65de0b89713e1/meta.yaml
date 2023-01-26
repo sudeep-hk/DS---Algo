@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sudee/Desktop/Learning/DS%20%26%20Algo/mlruns/127326014988574907/776b0637b439419e81d65de0b89713e1/artifacts
+end_time: 1674710215964
+entry_point_name: ''
+experiment_id: '127326014988574907'
+lifecycle_stage: active
+run_id: 776b0637b439419e81d65de0b89713e1
+run_name: Elastic Net
+run_uuid: 776b0637b439419e81d65de0b89713e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674710215878
+status: 3
+tags: []
+user_id: sudee

@@ -1,0 +1,2 @@
+mlflow<3,>=2.1
+pycaret==3.0.0.rc8

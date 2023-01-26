@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sudee/Desktop/Learning/DS%20%26%20Algo/mlruns/127326014988574907/99145e8b2e7841358a2a625e841ad55f/artifacts
+end_time: 1674710364735
+entry_point_name: ''
+experiment_id: '127326014988574907'
+lifecycle_stage: active
+run_id: 99145e8b2e7841358a2a625e841ad55f
+run_name: Decision Tree Regressor
+run_uuid: 99145e8b2e7841358a2a625e841ad55f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674710364659
+status: 3
+tags: []
+user_id: sudee

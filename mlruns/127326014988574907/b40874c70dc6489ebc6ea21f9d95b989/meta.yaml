@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sudee/Desktop/Learning/DS%20%26%20Algo/mlruns/127326014988574907/b40874c70dc6489ebc6ea21f9d95b989/artifacts
+end_time: 1674710215101
+entry_point_name: ''
+experiment_id: '127326014988574907'
+lifecycle_stage: active
+run_id: b40874c70dc6489ebc6ea21f9d95b989
+run_name: AdaBoost Regressor
+run_uuid: b40874c70dc6489ebc6ea21f9d95b989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674710215021
+status: 3
+tags: []
+user_id: sudee

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sudee/Desktop/Learning/DS%20%26%20Algo/mlruns/127326014988574907/72a047441c32479dbb3b8de1c3eac14d/artifacts
+end_time: 1674710216605
+entry_point_name: ''
+experiment_id: '127326014988574907'
+lifecycle_stage: active
+run_id: 72a047441c32479dbb3b8de1c3eac14d
+run_name: Least Angle Regression
+run_uuid: 72a047441c32479dbb3b8de1c3eac14d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674710216519
+status: 3
+tags: []
+user_id: sudee

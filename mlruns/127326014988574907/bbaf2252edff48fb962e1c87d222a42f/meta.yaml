@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sudee/Desktop/Learning/DS%20%26%20Algo/mlruns/127326014988574907/bbaf2252edff48fb962e1c87d222a42f/artifacts
+end_time: 1674710215532
+entry_point_name: ''
+experiment_id: '127326014988574907'
+lifecycle_stage: active
+run_id: bbaf2252edff48fb962e1c87d222a42f
+run_name: Orthogonal Matching Pursuit
+run_uuid: bbaf2252edff48fb962e1c87d222a42f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674710215443
+status: 3
+tags: []
+user_id: sudee
