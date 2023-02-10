@@ -14338,3 +14338,5 @@ Alternately, you can install this by running `pip install pycaret[models]`
 2023-02-10 16:32:24,506:INFO:Fitting PCA()
 2023-02-10 16:32:24,510:INFO:Sorting dataframe
 2023-02-10 16:32:24,512:INFO:Rendering Visual
+2023-02-10 16:32:36,725:INFO:Visual Rendered Successfully
+2023-02-10 16:32:36,805:INFO:plot_model() successfully completed......................................
